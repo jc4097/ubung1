@@ -3,3 +3,8 @@ Date of Test: 2025-11-11 14:01:27
 Bubble Sort Time: 6.871277 seconds
 Quick Sort Time: 0.019257 seconds
 
+Computer Name: IpadPro
+Date of Test: 2025-11-11 14:05:50
+Bubble Sort Time: 8.252375 seconds
+Quick Sort Time: 0.033484 seconds
+
